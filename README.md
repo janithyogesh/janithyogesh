@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" src="working_space.gif" alt="Coding" width="22%" />
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <p align="left">
@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janithyogesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -92,28 +92,55 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/janith-rathuge-rj81" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.thecn.com/EY229" target="_blank">
-    <img src="https://img.shields.io/badge/CN_E--Portfolio-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CN E-Portfolio"/>
-  </a>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40"
+         style="margin-right:12px;" />
+  </a>&nbsp;
+
   <a href="https://www.facebook.com/share/17z9HXjCjv/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/yogesh__rj?igsh=NnUzemJ6MWJqajBh&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+         alt="Facebook"
+         height="30"
+         width="40"
+         style="margin-right:12px;" />
+  </a>&nbsp;
+
+  <a href="https://www.instagram.com/yogesh__rj" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram"
+         height="30"
+         width="40"
+         style="margin-right:12px;" />
+  </a>&nbsp;
+
   <a href="https://www.hackerrank.com/profile/rathugejanith" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="HackerRank"
+         height="30"
+         width="40"
+         style="margin-right:12px;" />
+  </a>&nbsp;
+
   <a href="https://medium.com/@rathugejanith" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+         alt="Medium"
+         height="30"
+         width="40" />
+  </a>&nbsp;
 </p>
+
+
 
 ---
 

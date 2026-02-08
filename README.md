@@ -31,7 +31,7 @@
 </td>
 <td width="40%">
 
-<img src="working_space.gif" alt="Coding" width="100%"/>
+<img src="working_space.gif" alt="Coding" width="80%"/>
 
 </td>
 </tr>

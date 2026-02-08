@@ -82,11 +82,6 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janithyogesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithyogesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janithyogesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 

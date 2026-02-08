@@ -16,9 +16,8 @@
 ---
 
 ## 🚀 About Me
-<div style="display: flex; align-items: center; gap: 20px;">
 
-<div style="flex: 3;">
+<img align="right" src="working_space.gif" alt="Coding" width="40%" />
 
 - 🎓 **Final Year Computer Engineering Student** at University of Peradeniya  
 - 💻 Passionate about **Full Stack Development** and **Software Engineering**  
@@ -27,13 +26,8 @@
 - 📫 Reach me at: **rathugejanith@gmail.com**  
 - 🌐 Portfolio: **[janithyogesh.github.io/my-portfolio](https://janithyogesh.github.io/my-portfolio/)**  
 
-</div>
+<br clear="right"/>
 
-<div style="flex: 2; text-align: center;">
-  <img src="working_space.gif" alt="Coding" width="100%" />
-</div>
-
-</div>
 
 
 ---

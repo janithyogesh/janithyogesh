@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="working_space.gif" alt="Coding" width="40%" />
+<img align="right" src="working_space.gif" alt="Coding" width="22%" />
 
 - 🎓 **Final Year Computer Engineering Student** at University of Peradeniya  
 - 💻 Passionate about **Full Stack Development** and **Software Engineering**  

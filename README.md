@@ -16,26 +16,25 @@
 ---
 
 ## 🚀 About Me
+<div style="display: flex; align-items: center; gap: 20px;">
 
-<table>
-<tr>
-<td width="60%">
+<div style="flex: 3;">
 
-- 🎓 **Final Year Computer Engineering Student** at University of Peradeniya
-- 💻 Passionate about **Full Stack Development** and **Software Engineering**
-- 🌱 Currently exploring modern web technologies and scalable system design
-- 🔭 Building projects that solve real-world problems
-- 📫 Reach me at: **rathugejanith@gmail.com**
-- 🌐 Portfolio: **[janithyogesh.github.io/my-portfolio](https://janithyogesh.github.io/my-portfolio/)**
+- 🎓 **Final Year Computer Engineering Student** at University of Peradeniya  
+- 💻 Passionate about **Full Stack Development** and **Software Engineering**  
+- 🌱 Exploring modern web technologies and scalable system design  
+- 🔭 Building projects that solve real-world problems  
+- 📫 Reach me at: **rathugejanith@gmail.com**  
+- 🌐 Portfolio: **[janithyogesh.github.io/my-portfolio](https://janithyogesh.github.io/my-portfolio/)**  
 
-</td>
-<td width="40%">
+</div>
 
-<img src="working_space.gif" alt="Coding" width="80%"/>
+<div style="flex: 2; text-align: center;">
+  <img src="working_space.gif" alt="Coding" width="100%" />
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+
 
 ---
 

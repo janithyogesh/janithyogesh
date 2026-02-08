@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hacker.gif" alt="Hacker" width="600"/>
+  <img src="hacker.gif" alt="Hacker" width="70px"/>
 </p>
 
 <h1 align="center">Hi there, I'm Janith Yogesh Rathuge 👋</h1>

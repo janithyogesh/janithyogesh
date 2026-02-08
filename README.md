@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="hacker.gif" alt="Hacker" width="600"/>
+</p>
+
 <h1 align="center">Hi there, I'm Janith Yogesh Rathuge 👋</h1>
 
 <p align="center">
-  <img src="working_space.gif" alt="Coding" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F8FFF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergraduate;Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 </p>
-
-<h3 align="center">Computer Engineering Undergraduate | Full Stack Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janithyogesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,12 +16,25 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 - 🎓 **Final Year Computer Engineering Student** at University of Peradeniya
 - 💻 Passionate about **Full Stack Development** and **Software Engineering**
 - 🌱 Currently exploring modern web technologies and scalable system design
 - 🔭 Building projects that solve real-world problems
 - 📫 Reach me at: **rathugejanith@gmail.com**
 - 🌐 Portfolio: **[janithyogesh.github.io/my-portfolio](https://janithyogesh.github.io/my-portfolio/)**
+
+</td>
+<td width="40%">
+
+<img src="working_space.gif" alt="Coding" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
